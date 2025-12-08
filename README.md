@@ -24,22 +24,22 @@
 
 [คลิกเพื่อดูหน้าแรก](./index.html)
 
-[![คลิกเพื่อดูหน้าแรก](images/index-screenshot.png)](./index.html)
+[![คลิกเพื่อดูหน้าแรก](images/index.jpg)](./index.html)
 
 ### 2. หน้าเกี่ยวกับเรา (About)
 
 [คลิกเพื่อดูเกี่ยวกับ](./about.html)
 
-[![คลิกเพื่อดูเกี่ยวกับ](images/about-screenshot.png)](./about.html)
+[![คลิกเพื่อดูเกี่ยวกับ](images/about.jpg)](./about.html)
 
 ### 3. หน้าบริการ (Services)
 
 [คลิกเพื่อดูบริการ](./services.html)
 
-[![คลิกเพื่อดูบริการ](images/services-screenshot.png)](./services.html)
+[![คลิกเพื่อดูบริการ](images/services.jpg)](./services.html)
 
 ### 4. หน้าติดต่อ (Contact)
 
 [คลิกเพื่อดูติดต่อ](./contact.html)
 
-[![คลิกเพื่อดูติดต่อ](images/contact-screenshot.png)](./contact.html)
+[![คลิกเพื่อดูติดต่อ](images/contact.jpg)](./contact.html)
