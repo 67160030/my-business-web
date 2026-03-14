@@ -1,0 +1,94 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+/* ===== HEADINGS ===== */
+h1 {
+    color: #0077cc;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #005fa3;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+/* ===== PARAGRAPHS ===== */
+p {
+    margin-bottom: 15px;
+}
+
+/* ===== LINKS ===== */
+a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ===== HR ===== */
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 25px 0;
+}
+
+/* ===== TABLE ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #0077cc;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    table, th, td {
+        font-size: 14px;
+    }
+}
